@@ -336,9 +336,9 @@ This project is created for educational purposes as part of an AI/Python interns
 ## 👤 Author
 
 **[Your Name]**
-- Email: [your.email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- GitHub: [your-github-username]
+- Email: [deepensahoo351@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/deepenkumarsahoo/]
+- GitHub: [DeepenKumarSahoo]
 
 ## 🙏 Acknowledgments
 
