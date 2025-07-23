@@ -338,7 +338,7 @@ This project is created for educational purposes as part of an AI/Python interns
 **[Your Name]**
 - Email: [deepensahoo351@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/deepenkumarsahoo/]
-- GitHub: [DeepenKumarSahoo]
+- GitHub: [[DeepenKumarSahoo](https://github.com/DeepenKumarSahoo)]
 
 ## 🙏 Acknowledgments
 
