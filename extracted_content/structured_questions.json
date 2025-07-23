@@ -1,0 +1,623 @@
+[
+  {
+    "question_number": 1,
+    "question": "Find the next figures in the figure pattern given below.",
+    "options": [
+      "[A] ",
+      "[B] ",
+      "[C] ",
+      "[D] "
+    ],
+    "answer": "D",
+    "page": 1,
+    "images": "page1_question1.png",
+    "option_images": [
+      "page1_option0.png",
+      "page1_option1.png",
+      "page1_option2.png",
+      "page1_option3.png"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "Complete the number pattern.",
+    "options": [
+      "[A] ",
+      "[B] "
+    ],
+    "answer": "",
+    "page": 1,
+    "images": "page1_question2.png",
+    "option_images": [
+      "page1_option0.png",
+      "page1_option1.png"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "In the questions given below, the series with one or more terms figures are missing marked with ‘?’. Choose the correct option to replace the ‘?’ mark(s).",
+    "options": [
+      "[A] 19",
+      "[B] 18",
+      "[C] 17",
+      "[D] 20"
+    ],
+    "answer": "C",
+    "page": 2,
+    "images": "page2_question3.png",
+    "option_images": [
+      "page2_option0.png",
+      "page2_option1.png",
+      "page2_option2.png",
+      "page2_option3.png"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "Number of the groups of 9 paper clips ( ) shown here is",
+    "options": [
+      "[A] 2",
+      "[B] 3",
+      "[C] 9",
+      "[D] 27"
+    ],
+    "answer": "D",
+    "page": 2,
+    "images": "page2_question4.png",
+    "option_images": [
+      "page2_option0.png",
+      "page2_option1.png",
+      "page2_option2.png",
+      "page2_option3.png"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "How many bananas are kept outside the basket?",
+    "options": [
+      "[A] 1",
+      "[B] 2",
+      "[C] 3",
+      "[D] 4"
+    ],
+    "answer": "",
+    "page": 2,
+    "images": "page2_question5.png",
+    "option_images": [
+      "page2_option0.png",
+      "page2_option1.png",
+      "page2_option2.png",
+      "page2_option3.png"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "A programme of children ended at the time shown on the clock. At what time did the programme end?",
+    "options": [
+      "[A] 6: 00",
+      "[B] 5: 20",
+      "[C] 7: 00",
+      "[D] None of these"
+    ],
+    "answer": "B",
+    "page": 3,
+    "images": "page3_question6.png",
+    "option_images": [
+      "page3_option0.png",
+      "page3_option1.png",
+      "page3_option2.png",
+      "page3_option3.png"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "Suresh had 112 bookmarks. He gives some bookmarks to her pupils, he had 13 bookmarks left. How many bookmarks did he give away?",
+    "options": [
+      "[A] 110",
+      "[B] 125",
+      "[C] 99",
+      "[D] 130"
+    ],
+    "answer": "C",
+    "page": 3,
+    "images": "page3_question7.png",
+    "option_images": [
+      "page3_option0.png",
+      "page3_option1.png",
+      "page3_option2.png",
+      "page3_option3.png"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "Count and write the amount of money.",
+    "options": [
+      "[A] Rs 70.00 [B] Rs 76.01",
+      "[C] Rs 75.40 [D] Rs 80.04"
+    ],
+    "answer": "B",
+    "page": 4,
+    "images": "page4_question8.png",
+    "option_images": [
+      "page4_option0.png",
+      "page4_option1.png"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "Six cats are numbered as follows: Which cat shows the number lying between 40 and 50 and also having 3 at ones place?",
+    "options": [
+      "[A] ",
+      "[B] "
+    ],
+    "answer": "",
+    "page": 4,
+    "images": "page4_question9.png",
+    "option_images": [
+      "page4_option0.png",
+      "page4_option1.png"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "Sonia bought 45 candies. She gave 22 cookies to her sister. How many candies are left with her?",
+    "options": [
+      "[A] 42",
+      "[B] 23",
+      "[C] 50",
+      "[D] 43"
+    ],
+    "answer": "B",
+    "page": 5,
+    "images": "page5_question10.png",
+    "option_images": [
+      "page5_option0.png",
+      "page5_option1.png",
+      "page5_option2.png",
+      "page5_option3.png"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "Which of the following is greatest?",
+    "options": [],
+    "answer": "D",
+    "page": 5,
+    "images": "page5_question11.png",
+    "option_images": []
+  },
+  {
+    "question_number": 12,
+    "question": "Write ‘+’ or ‘–’ in each to complete the number sentence.",
+    "options": [
+      "[A] +, +",
+      "[B] +, –",
+      "[C] –, –",
+      "[D] –, +"
+    ],
+    "answer": "B",
+    "page": 5,
+    "images": "page5_question12.png",
+    "option_images": [
+      "page5_option0.png",
+      "page5_option1.png",
+      "page5_option2.png",
+      "page5_option3.png"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "Object _______________ is the heaviest. Direction (Q.No.14 & 15): Study the diagram below and answer the questions 14 and 15.",
+    "options": [
+      "[A] 3",
+      "[B] 5",
+      "[C] 4",
+      "[D] 1"
+    ],
+    "answer": "C",
+    "page": 6,
+    "images": "page6_question13.png",
+    "option_images": [
+      "page6_option0.png",
+      "page6_option1.png",
+      "page6_option2.png",
+      "page6_option3.png"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "The length of BD is 1 cm less than the total length of AB and AD. CD is __________ cm longer than BD.",
+    "options": [
+      "[A] 5",
+      "[B] 4",
+      "[C] 8",
+      "[D] 9"
+    ],
+    "answer": "B",
+    "page": 6,
+    "images": "page6_question14.png",
+    "option_images": [
+      "page6_option0.png",
+      "page6_option1.png",
+      "page6_option2.png",
+      "page6_option3.png"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "The length of CD is twice that of BC. What is the length of all the sides of triangle BCD? A B C D 4 cm 3 cm 10 cm",
+    "options": [
+      "[A] 15 cm",
+      "[B] 31 cm",
+      "[C] 42 cm",
+      "[D] 38 cm"
+    ],
+    "answer": "A",
+    "page": 6,
+    "images": "page6_question15.png",
+    "option_images": [
+      "page6_option0.png",
+      "page6_option1.png",
+      "page6_option2.png",
+      "page6_option3.png"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "Which of the following clocks shows 30 minutes after 4 O’clock?",
+    "options": [
+      "[A] ",
+      "[B] ",
+      "[C] ",
+      "[D] "
+    ],
+    "answer": "B",
+    "page": 7,
+    "images": "page7_question16.png",
+    "option_images": [
+      "page7_option0.png",
+      "page7_option1.png",
+      "page7_option2.png",
+      "page7_option3.png"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "Sent gold High School has 453 students. It has 23 more students than kiddy gold High School. How many students does kiddy gold High School have? 12 6 5 4 3 2 1 11 10 9 8 7 12 6 5 4 3 2 1 11 10 9 8 7 12 6 5 4 3 2 1 11 10 9 8 7 12 6 5 4 3 2 1 11 10 9 8 7",
+    "options": [
+      "[A] 400",
+      "[B] 430",
+      "[C] 403",
+      "[D] 340"
+    ],
+    "answer": "B",
+    "page": 7,
+    "images": "page7_question17.png",
+    "option_images": [
+      "page7_option0.png",
+      "page7_option1.png",
+      "page7_option2.png",
+      "page7_option3.png"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question": "Tanshu spent Rs 35.70 on a ball and Rs 50.30 on a toy car. How much did he spend altogether?",
+    "options": [
+      "[A] Rs 80",
+      "[B] Rs 85",
+      "[C] Rs 58",
+      "[D] Rs 86"
+    ],
+    "answer": "D",
+    "page": 8,
+    "images": "page8_question18.png",
+    "option_images": [
+      "page8_option0.png",
+      "page8_option1.png",
+      "page8_option2.png",
+      "page8_option3.png"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question": "Which tree has apples more than 6 but less than 9?",
+    "options": [
+      "[A] ",
+      "[B] ",
+      "[C] ",
+      "[D] "
+    ],
+    "answer": "B",
+    "page": 8,
+    "images": "page8_question19.png",
+    "option_images": [
+      "page8_option0.png",
+      "page8_option1.png",
+      "page8_option2.png",
+      "page8_option3.png"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "Which abacus shows 15 – 13 = 13?",
+    "options": [
+      "[A] ",
+      "[B] ",
+      "[C] ",
+      "[D] "
+    ],
+    "answer": "C",
+    "page": 8,
+    "images": "page8_question20.png",
+    "option_images": [
+      "page8_option0.png",
+      "page8_option1.png",
+      "page8_option2.png",
+      "page8_option3.png"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question": "Which of the following is smallest?",
+    "options": [],
+    "answer": "C",
+    "page": 9,
+    "images": "page9_question21.png",
+    "option_images": []
+  },
+  {
+    "question_number": 22,
+    "question": "6 hundreds 3 tens 2 ones – 3 hundreds 2 tens 6 ones = ____________.",
+    "options": [
+      "[A] 306",
+      "[B] 360",
+      "[C] 603",
+      "[D] 305"
+    ],
+    "answer": "A",
+    "page": 9,
+    "images": "page9_question22.png",
+    "option_images": [
+      "page9_option0.png",
+      "page9_option1.png",
+      "page9_option2.png",
+      "page9_option3.png"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question": "What does stand for ?",
+    "options": [
+      "[A] 7",
+      "[B] 5",
+      "[C] 3",
+      "[D] 4"
+    ],
+    "answer": "D",
+    "page": 9,
+    "images": "page9_question23.png",
+    "option_images": [
+      "page9_option0.png",
+      "page9_option1.png",
+      "page9_option2.png",
+      "page9_option3.png"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question": "A number bond is shown below. What is the value of M × N?",
+    "options": [
+      "[A] 35",
+      "[B] 43",
+      "[C] 52",
+      "[D] 25"
+    ],
+    "answer": "",
+    "page": 9,
+    "images": "page9_question24.png",
+    "option_images": [
+      "page9_option0.png",
+      "page9_option1.png",
+      "page9_option2.png",
+      "page9_option3.png"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question": "Tanya has following two pencils. Find the total length of both the pencils.",
+    "options": [
+      "[A] 7 units",
+      "[B] 6 units",
+      "[C] 5 units",
+      "[D] 9 units"
+    ],
+    "answer": "D",
+    "page": 10,
+    "images": "page10_question25.png",
+    "option_images": [
+      "page10_option0.png",
+      "page10_option1.png",
+      "page10_option2.png",
+      "page10_option3.png"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question": "There were 298 hens and cows on a farm. There were 153 hens. How many cows were there?",
+    "options": [
+      "[A] 138",
+      "[B] 140",
+      "[C] 145",
+      "[D] 144"
+    ],
+    "answer": "C",
+    "page": 10,
+    "images": "page10_question26.png",
+    "option_images": [
+      "page10_option0.png",
+      "page10_option1.png",
+      "page10_option2.png",
+      "page10_option3.png"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question": "Write the correct time for the clock shown below.",
+    "options": [
+      "[A] 5 : 15",
+      "[B] 5 : 40",
+      "[C] 6 : 20",
+      "[D] 3 : 20"
+    ],
+    "answer": "A",
+    "page": 10,
+    "images": "page10_question27.png",
+    "option_images": [
+      "page10_option0.png",
+      "page10_option1.png",
+      "page10_option2.png",
+      "page10_option3.png"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question": "Sumit has following flowers and balloons. Which statement is true?",
+    "options": [
+      "[A] Flowers are more than balloons.",
+      "[B] Flowers are equal to balloons.",
+      "[C] Flowers are less than balloons",
+      "[D] Balloons are 2 more than flowers."
+    ],
+    "answer": "C",
+    "page": 11,
+    "images": "page11_question28.png",
+    "option_images": [
+      "page11_option0.png",
+      "page11_option1.png",
+      "page11_option2.png",
+      "page11_option3.png"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question": "A bag of rice weighs 3 kg. How much do 6 bags of rice weight?",
+    "options": [
+      "[A] 18 kg",
+      "[B] 24 kg",
+      "[C] 15 kg",
+      "[D] 17 kg"
+    ],
+    "answer": "A",
+    "page": 11,
+    "images": "page11_question29.png",
+    "option_images": [
+      "page11_option0.png",
+      "page11_option1.png",
+      "page11_option2.png",
+      "page11_option3.png"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question": "If only all Saturdays and Sundays are holidays, then in the month of December 2014 how many holidays will we get?",
+    "options": [
+      "[A] 6",
+      "[B] 8",
+      "[C] 10",
+      "[D] 7"
+    ],
+    "answer": "",
+    "page": 11,
+    "images": "page11_question30.png",
+    "option_images": [
+      "page11_option0.png",
+      "page11_option1.png",
+      "page11_option2.png",
+      "page11_option3.png"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question": "How much do the counters add up to?",
+    "options": [
+      "[A] 253",
+      "[B] 235",
+      "[C] 325",
+      "[D] 532"
+    ],
+    "answer": "A",
+    "page": 12,
+    "images": "page12_question31.png",
+    "option_images": [
+      "page12_option0.png",
+      "page12_option1.png",
+      "page12_option2.png",
+      "page12_option3.png"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question": "The packet of rice has a mass of _______________ kg. Flour 0 5 10 15",
+    "options": [],
+    "answer": "",
+    "page": 12,
+    "images": "page12_question32.png",
+    "option_images": []
+  },
+  {
+    "question_number": 33,
+    "question": "Fill in the blank: The book is ________________ the lamp.",
+    "options": [
+      "[A] Equal to",
+      "[B] Lighter than",
+      "[C] Heavier than [D] None of these"
+    ],
+    "answer": "B",
+    "page": 13,
+    "images": "page13_question33.png",
+    "option_images": [
+      "page13_option0.png",
+      "page13_option1.png",
+      "page13_option2.png"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question": "Which of the following is the CORRECT way of writing 8 less than 14?",
+    "options": [
+      "[A] 14 – 8 = 6",
+      "[B] 14 + 8 = 6",
+      "[C] 14 – 6 = 8",
+      "[D] 14 + 6 = 8"
+    ],
+    "answer": "A",
+    "page": 13,
+    "images": "page13_question34.png",
+    "option_images": [
+      "page13_option0.png",
+      "page13_option1.png",
+      "page13_option2.png",
+      "page13_option3.png"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question": "Tonu gave Rs 50 to buy this ball. How much money will he get back?",
+    "options": [
+      "[A] Rs 15",
+      "[B] Rs  25",
+      "[C] Rs 20",
+      "[D] Rs 17"
+    ],
+    "answer": "",
+    "page": 13,
+    "images": "page13_question35.png",
+    "option_images": [
+      "page13_option0.png",
+      "page13_option1.png",
+      "page13_option2.png",
+      "page13_option3.png"
+    ]
+  }
+]

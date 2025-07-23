@@ -1,0 +1,29 @@
+# Requirements for PDF Content Analysis and Question Generation
+# AI/Python Intern Assignment
+
+# Core PDF processing
+PyMuPDF==1.23.8
+pdfplumber==0.10.3
+
+# Image processing
+Pillow==10.1.0
+
+# Data handling
+json5==0.9.14
+
+# Optional: For advanced text processing
+regex==2023.10.3
+
+# Optional: For enhanced OCR capabilities
+pytesseract==0.3.10
+
+# Optional: For data analysis
+pandas==2.1.4
+numpy>=1.26.0
+
+# Installation instructions:
+# pip install -r requirements.txt
+
+# Note: Make sure you have the following system dependencies:
+# - For pytesseract: Install Tesseract OCR engine
+# - For PyMuPDF: Usually installs without issues
